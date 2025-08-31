@@ -6,7 +6,7 @@ increasingly sophisticated techniques.  Each numbered folder contains one or
 more Jupyter notebooks that implement a concept, alongside a concise
 `README.md` explaining the theory and its relevance to real‑world business
 scenarios.  The goal is not only to showcase technical competence but also to
-illustrate how data‑driven insights translate into actionable value. 
+illustrate how data‑driven insights translate into actionable value.
 
 The project is organised as follows:
 
