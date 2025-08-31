@@ -1,12 +1,12 @@
 # ML Foundations Repository
 
-Welcome to the **ML Foundations** repository!  This project demonstrates a
+Welcome to the **ML Foundations** repository!  This project demonstrates my
 progressive journey from the most basic machine‑learning concepts through
 increasingly sophisticated techniques.  Each numbered folder contains one or
 more Jupyter notebooks that implement a concept, alongside a concise
 `README.md` explaining the theory and its relevance to real‑world business
 scenarios.  The goal is not only to showcase technical competence but also to
-illustrate how data‑driven insights translate into actionable value.
+illustrate how data‑driven insights translate into actionable value. 
 
 The project is organised as follows:
 
@@ -28,7 +28,7 @@ sections.
 
 ## Communicating Impact
 
-One of the core learnings from my early career is the importance of how to communicate impact to stakeholders.
+One of the core learnings from my early career is the importance of how to communicate impact to stakeholders. 
 
 To connect your technical work to meaningful business outcomes, frame your analysis around three questions:
 
@@ -49,6 +49,8 @@ Tie these metrics back to your industry (these are just some that I have experie
 Quantified impact and a clear narrative will help non‑technical stakeholders appreciate the value of your machine‑learning projects.
 
 ## Note from Me
+
+**Within each README.md**, I included current applications today of these concepts in the wild, as well as future case studies I find to be interesting and valuable.
 
 I hope you find this repository both educational and inspiring.  Use it
 freely to prepare for interviews, refresh your understanding of core ML
