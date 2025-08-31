@@ -1,11 +1,11 @@
 # 02 ‑ Classification Basics
 
-Classification problems involve predicting a discrete label rather than a continuous value.  In this section we explore two popular techniques: **logistic regression** and **decision trees**.  Both are applied to well‑known datasets to illustrate how to train a model, evaluate its performance and understand its decision boundaries.
+Classification problems involve predicting a discrete label rather than a continuous value.  In this section I explored two popular techniques: **logistic regression** and **decision trees**.  Both are applied to well‑known datasets to illustrate how to train a model, evaluate its performance and understand its decision boundaries.
 
 * Logistic regression is a linear model for binary or multinomial outcomes.  It's simple, fast and offers interpretable parameters.
-* Decision trees partition the feature space into axis‑aligned regions, making them highly interpretable but prone to overfitting without proper regularisation.
+* Decision trees partition the feature space into axis‑aligned regions, making them highly interpretable but prone to overfitting without proper regularization.
 
-Beyond textbook exercises, classification models underpin countless real‑world applications such as spam detection, medical diagnosis and customer churn prediction.  By the end of this section you'll see how to turn raw data into actionable insights.
+Beyond textbook exercises, classification models underpin countless real‑world applications such as spam detection, medical diagnosis and customer churn prediction.
 
 ## Industry applications
 

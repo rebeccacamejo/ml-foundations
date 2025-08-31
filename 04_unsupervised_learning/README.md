@@ -1,6 +1,6 @@
 # 04 ‑ Unsupervised Learning
 
-Unsupervised learning uncovers hidden structure in data without labelled outcomes.  In this section we explore two dimensionality‑reduction and clustering techniques: **K‑Means** and **Principal Component Analysis (PCA)** for synthetic data, and **t‑Distributed Stochastic Neighbour Embedding (t‑SNE)** for visualising complex high‑dimensional patterns in handwritten digits.
+Unsupervised learning uncovers hidden structure in data without labelled outcomes.  In this section I explored two dimensionality‑reduction and clustering techniques: **K‑Means** and **Principal Component Analysis (PCA)** for synthetic data, and **t‑Distributed Stochastic Neighbour Embedding (t‑SNE)** for visualising complex high‑dimensional patterns in handwritten digits.
 
 These methods are widely used for customer segmentation, anomaly detection and exploratory data analysis.  By grouping similar observations or reducing dimensionality, businesses can gain new insights into their products, customers or operational processes.
 

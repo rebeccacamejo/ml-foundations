@@ -1,7 +1,7 @@
 # 01 ‑ Linear Regression
 
 This module introduces **linear regression**, one of the simplest yet most
-powerful tools in a data scientist's arsenal.  We use the **diabetes**
+powerful tools in a data scientist's arsenal.  I used the **diabetes**
 dataset from scikit‑learn to predict a continuous outcome from a set of
 features.  The notebook demonstrates how to prepare the data, fit a
 `LinearRegression` model, evaluate it with metrics such as **Mean Squared

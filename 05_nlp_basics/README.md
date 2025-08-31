@@ -1,8 +1,8 @@
 # 05 ‑ NLP Basics
 
-This section introduces natural language processing (NLP) workflows using two fundamental text representation techniques: **Bag‑of‑Words (BoW)** and **TF‑IDF**.  Because our environment doesn't provide access to large text corpora, we construct a small sample dataset of positive and negative reviews to demonstrate sentiment classification.
+This section introduces natural language processing (NLP) workflows using two fundamental text representation techniques: **Bag‑of‑Words (BoW)** and **TF‑IDF**.  I constructed a small sample dataset of positive and negative reviews to demonstrate sentiment classification.
 
-The first notebook uses a simple BoW representation with logistic regression, while the second employs TF‑IDF weighting and a linear support vector machine.  These models illustrate how text can be transformed into numerical features and fed into classic machine‑learning algorithms.  Understanding these basics lays the groundwork for more advanced architectures like transformers.
+The first notebook uses a simple BoW representation with logistic regression, while the second employs TF‑IDF weighting and a linear support vector machine.  These models illustrate how text can be transformed into numerical features and fed into classic machine‑learning algorithms.  Understanding these basics lays the groundwork for more advanced architectures like transformers  (checkout my repo llms-from-scratch-exercises).
 
 ## Industry applications
 

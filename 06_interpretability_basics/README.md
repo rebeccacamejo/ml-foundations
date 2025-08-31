@@ -20,4 +20,3 @@ Interpretability techniques help translate technical models into business langua
 - **SaaS:** Build an “insights dashboard” where the **top churn predictors** are updated weekly, tied to specific product features; drive targeted improvements.  
 - **Logistics:** Create a report showing **feature contribution** to fuel consumption predictions; justify investments in route planning or driver training.  
 - **Construction/field services:** Run partial dependence plots to show **how job cost scales** with project size or crew size; inform contract pricing strategies.
-

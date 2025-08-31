@@ -1,16 +1,16 @@
 # 03 ‑ Neural Networks
 
-This section introduces neural networks at two different levels.  First we build
+This section introduces neural networks at two different levels.  First I built
 a **Multi‑Layer Perceptron (MLP)** to classify handwritten digits from the
-classic digits dataset.  Then we explore the fundamentals of **convolution**,
-the key operation that powers convolutional neural networks (CNNs).  While we
-don't train a full CNN here (due to resource constraints), we demonstrate how
+classic digits dataset.  Then I explored the fundamentals of **convolution**,
+the key operation that powers convolutional neural networks (CNNs).  While I
+didn't train a full CNN here (due to resource constraints), I demonstrated how
 convolution filters extract features such as edges from raw image data.
 
-Neural networks are ubiquitous in modern applications – from character
+Neural networks are everywhere in modern applications – from character
 recognition and speech processing to fraud detection and recommendation
 systems.  The exercises in this folder highlight how neural architectures
-generalise linear models, learn complex patterns and underpin state‑of‑the‑art
+generalize linear models, learn complex patterns and underpin state‑of‑the‑art
 performance.
 
 ## Industry applications
