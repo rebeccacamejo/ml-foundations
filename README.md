@@ -22,8 +22,11 @@ The project is organised as follows:
 | `06_interpretability_basics` | Feature importance and word‑weight visualisation for model interpretability. |
 
 Each notebook is self‑contained: it loads its own data, trains a model,
-produces evaluation metrics and visualisations, and concludes with a business
-interpretation.  The `requirements.txt` files list the minimal Python
+produces evaluation metrics and visualizations, and concludes with a business
+interpretation. I also included current applications today of these concepts in the wild,
+as well as future case studies I find to be interesting and valuable.
+
+The `requirements.txt` files list the minimal Python
 packages needed to run the notebooks.  When exploring this repository, run the
 notebooks in order: they build on the concepts introduced in previous
 sections.
@@ -51,8 +54,6 @@ Tie these metrics back to your industry (these are just some that I have experie
 Quantified impact and a clear narrative will help non‑technical stakeholders appreciate the value of your machine‑learning projects.
 
 ## Note from Me
-
-**Within each README.md**, I included current applications today of these concepts in the wild, as well as future case studies I find to be interesting and valuable.
 
 I hope you find this repository both educational and inspiring.  Use it
 freely to prepare for interviews, refresh your understanding of core ML
