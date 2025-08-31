@@ -1,4 +1,4 @@
-# ML Foundations Repository
+# Machine Learning Foundations & Applications
 
 Welcome to the **ML Foundations** repository!  This project demonstrates my
 progressive journey from the most basic machine‑learning concepts through
